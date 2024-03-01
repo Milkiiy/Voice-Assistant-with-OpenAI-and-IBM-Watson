@@ -1,18 +1,15 @@
-## Sentiment Analysis using Caikit and Hugging Face
+## Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
 #### _Author : @IBM Academy_
 
 ## Information Project 🔎
-In this guided project you will build a Python application that uses Caikit run-time and API to query the Hugging Face model for sentiment analysis on text strings.
+In this guided project, i learn how to build my own AI assistant using OpenAI's pre-trained GPT-3 model. Unlike the popular ChatGPT which communicates with text, my personal assistant will use voice. 
+i will use Watson Speech-to-Text to give my AI assistant the gift of hearing and Watson Text-to-Speech so that my assistant can read the answers back to me.
 
-Caikit is an advanced AI toolkit designed to simplify the process of working with models through user-friendly APIs. 
-With Caikit, you gain access to a powerful set of tools that enable seamless model integration across diverse data domains and tasks. 
-
-Hugging Face provides an extensive collection of pre-trained models, allowing developers and researchers to leverage cutting-edge NLP and Generative AI capabilities with ease. 
-The platform also offers user-friendly APIs, empowering users to integrate these models seamlessly into their own applications and projects.
+With a voice-based personal assistant at my beck and call, i will be able to get answers, find information, and even have conversations, all without lifting a finger. 
 
 <img width="299" alt="mitra_f6fccdce-1cdb-4977-adf2-b4b5c3c52cc8 (2)" src="https://github.com/Milkiiy/The-Art-of-Prompt-Engineering/assets/114728966/a04e511d-9e34-4c69-b6b8-135a14c7551f"><br />
 
-Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of NSentiment Analysis using Caikit and Hugging Face from [CognitiveClass.Ai](https://cognitiveclass.ai)
+Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson from [CognitiveClass.Ai](https://cognitiveclass.ai)
 
 ## Mentee Info 🧑‍💻
 | Name                 | Program  |
@@ -21,15 +18,13 @@ Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of N
 
 ## Output ⭐
 
-Positive Output : 
+The Voice Assistant Output : 
 
-![81f90302-6847-4aae-abd2-ca3a960dcb6a](https://github.com/Milkiiy/Text-Sentiment-Analysis-using-Caikit-and-Hugging-Face/assets/114728966/15f58cc4-bf68-4fe4-8e81-0cda2cc33fe5)<br />
+![WhatsApp Image 2024-03-01 at 12 37 25](https://github.com/Milkiiy/Voice-Assistant-with-OpenAI-and-IBM-Watson/assets/114728966/73f4ed4c-06ab-4e76-8984-db8eb26edebd)<br />
 
-Negative Output :
-
-![af2c8f5a-0206-4a01-9770-3801cbfa5d19](https://github.com/Milkiiy/Text-Sentiment-Analysis-using-Caikit-and-Hugging-Face/assets/114728966/569bc0c9-3797-4b9d-bf49-bbd41ce39845)<br />
 
 ## Tech Stack 💻
 - Python
-- Caikit
-- Hugging Face Transformers
+- HTML,CSS & JS
+- Open AI API
+- IBM TTS & STT API
