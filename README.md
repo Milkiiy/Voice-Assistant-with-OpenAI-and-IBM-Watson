@@ -28,3 +28,4 @@ The Voice Assistant Output :
 - HTML,CSS & JS
 - Open AI API
 - IBM TTS & STT API
+- Docker
